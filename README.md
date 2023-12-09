@@ -1,2 +1,2 @@
-# WGU-D277-FrontEndWebDev
-WGU's D277 Task 2 Performance Assessment
+# WGU D277 Front-Web Development
+I created this GitHub project as a part of the D277 Front-End Web Development course at Western Governors University. This project showcases the creation of a website dedicated to exploring a US State of your choice, of which I chose Arizona for my project, due to it being my home state. I decided to upload this repository so that other students have a model to follow, and thus an easier time completing the course.
